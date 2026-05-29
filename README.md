@@ -1,4 +1,5 @@
 # Energy Management System for Hybrid PV-Wind-Battery Based Fuzzy Logic Controller System
+A Hybrid PV-Wind-Battery Energy Management System using Fuzzy Logic Controller (FLC) designed in MATLAB/Simulink. This project combines solar, wind, and battery systems to provide efficient and reliable power management by optimizing energy usage and battery performance under changing weather conditions.
 
 ## 📌 Overview
 
